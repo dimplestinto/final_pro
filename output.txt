@@ -1,0 +1,5 @@
+Two Thousand  Two
+Invalid Roman numeral
+Four Thousand  Eight
+Four Thousand Five Hundred Ninety Nine
+Six Thousand Three Hundred Sixty Three
